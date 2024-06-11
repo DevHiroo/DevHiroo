@@ -1,12 +1,6 @@
 ### Óla! Eu sou Gabriel Horisawa 🖐🏻
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielhorisawa/)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielhorisawa/)
-
-![Gabriel Horisawa GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHiroo&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+Desenvolvedor FullStack
 
 ## Tecnologias que eu uso no meu dia
 <div style='display: inline_block'><br>
@@ -19,5 +13,6 @@
   
 </div><br>
 
-Apaixonado por tecnologia, esporte e videogame.
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielhorisawa/)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielhorisawa/)
 
